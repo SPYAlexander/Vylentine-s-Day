@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/SPYAlexander/Vylentine-s-Day.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
+  "author": "Alex Nguyen",
   "license": "WTFPL",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/SPYAlexander/Vylentine-s-Day/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/SPYAlexander/Vylentine-s-Day#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
